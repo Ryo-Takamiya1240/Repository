@@ -19,6 +19,7 @@ from sklearn.model_selection import train_test_split
 from scipy.stats import sem
 plt.style.use("fivethirtyeight")
 
+
 %matplotlib inline
 
 start= datetime.datetime(2020, 1, 1)
